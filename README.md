@@ -1,2 +1,2 @@
-# fuzzzzzz-github.io
+# fuzzzzzz.github.io
 homepage
